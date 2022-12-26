@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(/img/recife_background.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+
+    display: flex;
+}
+
+.credit {
+    background: #4c3b56;
+    font-size: 1.3em;
+    color: whitesmoke;
+    padding: 1em;
+    border-radius: 0.5em;
+    margin-top: 10px;
+}
+
+.botoes{
+    width: 150px;
+    height: 50px;
+    margin-top: 5px;
+    background-color: #4c3b56;
+    border-radius: 10px;
+    border-color: #4c3b56;
+    color: aliceblue;
+}
+
+.pergunta{
+    margin: 10px;
+    padding: 10px;
+    background-color: #4c3b56;
+}
+
+.credit a {
+    color: turquoise;
+    transition: 1s;
+}
+
+.credit a:hover {
+    color: white;
+    text-shadow: 0 0 8px white;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+
+    height: 100%;
+    width: 100%;
+
+    align-items: center;
+}
+
+.header{
+    width: 100%;
+
+    margin-bottom: 10px;
+}
+
+.footer{
+    display: block;
+
+    margin-top: 560px;
+    position: fixed;
+}
