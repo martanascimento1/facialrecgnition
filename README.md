@@ -1,3 +1,3 @@
 # facialrecgnition
 
-Repositório para aramazenar código que utiliza visão computacional para reconhecimento de pessoas.
+Repositório para armazenar código que utiliza visão computacional para reconhecimento de pessoas.
