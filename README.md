@@ -1,3 +1,3 @@
-# facialrecgnition
+# Facial recognition
 
-Repositório para armazenar código que utiliza visão computacional para reconhecimento de pessoas.
+Programa para fazer o reconhecimento de pessoas através de sua face.
