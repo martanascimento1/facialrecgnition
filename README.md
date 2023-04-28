@@ -1,3 +1,3 @@
 # Facial recognition
 
-Programa para fazer o reconhecimento de pessoas através de sua face.
+Projeto que utiliza visão computacional para fazer o reconhecimento de pessoas através da face.
